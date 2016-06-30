@@ -1,0 +1,25 @@
+{
+  "name": "colorlog",
+  "version": "0.0.0",
+  "authors": [
+    "Juha Tauriainen <juha@bin.fi>"
+  ],
+  "description": "Colors in your console log, yet another library",
+  "main": "main.js",
+  "keywords": [
+    "color",
+    "console",
+    "log",
+    "epic",
+    "kittens"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/js/node_modules/bower_components",
+    "test",
+    "tests"
+  ]
+}
